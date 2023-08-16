@@ -1,0 +1,26 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook-related
+.ipynb_checkpoints/
+
+# Seaborn visualizations
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# Virtual environments
+venv/
+env/
+.venv/
