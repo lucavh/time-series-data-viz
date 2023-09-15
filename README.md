@@ -3,3 +3,6 @@
 Approaches for working with data that changes over time
 
 Inspired by [this series](https://observablehq.com/collection/@observablehq/analyzing-time-series-data).
+
+Other interesting links:
+- https://labs.ala.org.au/posts/2023-08-28_alternatives-to-box-plots/post.html
